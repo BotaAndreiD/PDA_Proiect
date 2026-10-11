@@ -1,0 +1,13 @@
+*.wdb
+*.jou
+*.log
+*.pb
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.hw/
+xsim.dir/
+*.str
+webtalk*
